@@ -1,0 +1,7 @@
+openpose
+tmp
+!tmp/.gitkeep
+reports
+!reports/.gitkeep
+.idea
+frames
